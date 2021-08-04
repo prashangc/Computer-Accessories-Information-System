@@ -1,0 +1,6 @@
+
+13, Cooling Fan, Cash, 7600, Lenovo, Hardware Components
+14, Monitors, Cheque, 25000, Dell, Hardware Components
+15, RAM, Cash, 5200, Lenovo, Storage Components
+16, Access Point, Cheque, 1200, TP Link, Network Components
+17, SSD, Cash, 9700, Apple, Storage Components
